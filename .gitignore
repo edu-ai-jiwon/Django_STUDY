@@ -15,7 +15,7 @@ venv/
 .idea/
 
 #Static & Media
-static/
+#static/
 media/
 
 #OS 관련 -> 올리면 충돌날 수 있기 때문

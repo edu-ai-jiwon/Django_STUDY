@@ -4,6 +4,8 @@ services:
     container_name: django_web
     volumes:
       - .:/code
+    env_file:
+      - .env
     expose:
       - "8000"
 
